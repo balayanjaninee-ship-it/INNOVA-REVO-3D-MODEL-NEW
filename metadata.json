@@ -1,0 +1,6 @@
+{
+  "name": "Innova 3D Four-View Studio",
+  "description": "Interactive 3D Toyota Innova AN140 showcase featuring a live four-view inspection grid, 360-degree studio orbit, interior cabin zoom, and PANELCO III fleet livery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
